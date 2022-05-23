@@ -100,4 +100,3 @@
 @mail.bellydiet.buzz
 @mail.doctorsleep.buzz
 @mail.procivacourse.rest
-@mail.procivacourse.rest
