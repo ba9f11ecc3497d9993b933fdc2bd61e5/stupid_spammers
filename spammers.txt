@@ -101,3 +101,4 @@
 @mail.doctorsleep.buzz
 @mail.procivacourse.rest
 @mail.slimfix.buzz
+@mail.jobfarm.buzz
