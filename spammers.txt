@@ -104,3 +104,4 @@
 @mail.jobfarm.buzz
 @mail.herpafix.bar
 @mail.strougvirus.buzz
+@mail.levvertigo.us
