@@ -103,3 +103,4 @@
 @mail.slimfix.buzz
 @mail.jobfarm.buzz
 @mail.herpafix.bar
+@mail.strougvirus.buzz
