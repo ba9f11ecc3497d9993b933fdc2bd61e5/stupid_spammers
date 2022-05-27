@@ -105,3 +105,4 @@
 @mail.herpafix.bar
 @mail.strougvirus.buzz
 @mail.levvertigo.us
+@mail.cbdjames.site
