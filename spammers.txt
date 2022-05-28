@@ -106,3 +106,4 @@
 @mail.strougvirus.buzz
 @mail.levvertigo.us
 @mail.cbdjames.site
+@mail.nomorepain.rest
