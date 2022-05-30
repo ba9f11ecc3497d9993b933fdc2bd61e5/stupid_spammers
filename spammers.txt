@@ -109,3 +109,4 @@
 @mail.nomorepain.rest
 @mail.ferveliv.icu
 
+@mail.altaiporoises.rest
