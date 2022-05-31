@@ -110,3 +110,4 @@
 @mail.ferveliv.icu
 
 @mail.altaiporoises.rest
+@mail.slimlight.rest
