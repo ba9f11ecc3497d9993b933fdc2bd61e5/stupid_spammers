@@ -114,3 +114,4 @@
 @mail.easyclarisil.bar
 
 
+@mail.slimlight.bar @mail.easycalrisil.rest
