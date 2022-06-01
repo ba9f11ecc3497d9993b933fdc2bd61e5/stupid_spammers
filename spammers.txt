@@ -108,12 +108,8 @@
 @mail.cbdjames.site
 @mail.nomorepain.rest
 @mail.ferveliv.icu
-
 @mail.altaiporoises.rest
 @mail.slimlight.rest
 @mail.easyclarisil.bar
-
-
-@mail.slimlight.bar @mail.easycalrisil.rest
-@mail.easycalrisil.rest
+@mail.slimlight.bar
 @mail.perfectsofa.sa.com
