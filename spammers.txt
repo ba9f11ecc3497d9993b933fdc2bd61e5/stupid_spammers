@@ -145,3 +145,4 @@
 @mail.kciscasketo.za.com
 @mail.krillmadeeasy.za.com
 @mail.cosctosurvey.za.com
+@mail.lotteryforyou.za.com
