@@ -147,3 +147,4 @@
 @mail.cosctosurvey.za.com
 @mail.lotteryforyou.za.com
 @mail.makelifeeasy.sa.com
+@mail.translatordiet.za.com
