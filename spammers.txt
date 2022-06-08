@@ -146,3 +146,4 @@
 @mail.krillmadeeasy.za.com
 @mail.cosctosurvey.za.com
 @mail.lotteryforyou.za.com
+@mail.makelifeeasy.sa.com
