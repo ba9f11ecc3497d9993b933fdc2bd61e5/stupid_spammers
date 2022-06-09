@@ -151,3 +151,4 @@
 @mail.giftcardprofit.sa.com
 @mail.preparationz.za.com
 @mail.bestconsumer.sa.com
+@mail.dimestore.ru.com
