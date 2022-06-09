@@ -148,3 +148,4 @@
 @mail.lotteryforyou.za.com
 @mail.makelifeeasy.sa.com
 @mail.translatordiet.za.com
+@mail.giftcardprofit.sa.com
