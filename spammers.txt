@@ -159,3 +159,8 @@
 @mail.varietystore.ru.com
 @mail.emporiumz.za.com
 @mail.varietystore.ru.com
+@mail.varietystore.ru.com
+@mail.emporiumz.za.com
+@mail.varietystore.ru.com
+@mail.emporiumz.za.com
+@mail.varietystore.ru.com
