@@ -156,3 +156,6 @@
 @mail.shopstore.za.com
 @mail.bigbox.za.com
 @mail.bigbox.za.com
+@mail.varietystore.ru.com
+@mail.emporiumz.za.com
+@mail.varietystore.ru.com
