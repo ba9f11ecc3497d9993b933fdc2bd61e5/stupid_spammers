@@ -154,3 +154,4 @@
 @mail.dimestore.ru.com
 @mail.shopstore.za.com
 @mail.shopstore.za.com
+@mail.bigbox.za.com
