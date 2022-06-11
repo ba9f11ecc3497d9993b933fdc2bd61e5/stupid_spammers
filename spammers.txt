@@ -152,3 +152,4 @@
 @mail.preparationz.za.com
 @mail.bestconsumer.sa.com
 @mail.dimestore.ru.com
+@mail.shopstore.za.com
