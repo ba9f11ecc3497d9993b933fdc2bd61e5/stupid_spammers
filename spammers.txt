@@ -153,3 +153,4 @@
 @mail.bestconsumer.sa.com
 @mail.dimestore.ru.com
 @mail.shopstore.za.com
+@mail.shopstore.za.com
