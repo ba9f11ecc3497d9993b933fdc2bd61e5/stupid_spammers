@@ -166,3 +166,6 @@
 @mail.varietystore.ru.com
 @mail.thriftshop.ru.com
 @mail.homeshopping.za.com
+@mail.sewagefix.sa.com
+@mail.jobwhowho.ru.com
+@mail.smartbrain.ru.com
