@@ -178,3 +178,6 @@
 @mail.russianbried.za.com
 @mail.superfoodforyou.sa.com
 @mail.takekindlyto.ru.com
+@mail.winko.ru.com
+@mail.tolerateo.ru.com
+@mail.warranto.ru.com
