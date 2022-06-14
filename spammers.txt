@@ -177,3 +177,4 @@
 @mail.smartbrain.ru.com
 @mail.russianbried.za.com
 @mail.superfoodforyou.sa.com
+@mail.takekindlyto.ru.com
