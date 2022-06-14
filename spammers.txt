@@ -181,3 +181,4 @@
 @mail.winko.ru.com
 @mail.tolerateo.ru.com
 @mail.warranto.ru.com
+@mail.endorseo.ru.com
