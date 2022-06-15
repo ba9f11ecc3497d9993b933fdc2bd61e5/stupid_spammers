@@ -184,3 +184,4 @@
 @mail.endorseo.ru.com
 @mail.gutterlastic.ru.com
 @mail.buzzbgprotector.sa.com
+@mail.syngut.sa.com
