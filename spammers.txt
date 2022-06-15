@@ -185,3 +185,4 @@
 @mail.gutterlastic.ru.com
 @mail.buzzbgprotector.sa.com
 @mail.syngut.sa.com
+@mail.hipfex.ru.com
