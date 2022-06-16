@@ -190,3 +190,4 @@
 @mail.hometranslator.sa.com
 @mail.planforshed.ru.com
 @mail.happylife.ru.com
+@mail.neuroheltha.ru.com
