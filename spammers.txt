@@ -187,3 +187,4 @@
 @mail.syngut.sa.com
 @mail.hipfex.ru.com
 @mail.nerverpain.ru.com
+@mail.hometranslator.sa.com
